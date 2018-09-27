@@ -9,6 +9,9 @@ Here is a preview of the installer :
 ![](https://lut.im/IzjFrfhM18/DY8KD91W0uMhEgLp.png)
 ![](https://lut.im/eODTn8Sa9y/euCqh0wzXwlz3UNs.png)
 
+
+This forked version embeds the certrificates in OVPN files and allowing maximum compatibility. 
+
 ## Usage
 
 **You have to enable the TUN module otherwise OpenVPN won't work.** Ask your host if you don't know how to do it. If the TUN module is not enabled, the script will warn you and exit.
